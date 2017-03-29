@@ -1,4 +1,8 @@
 # hello-world
-First repository
 
-This is be Gloria, messing around.
+#include <stdio.h>
+
+main()
+{
+  printf("Hello World!");
+}
